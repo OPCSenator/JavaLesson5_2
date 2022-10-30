@@ -1,3 +1,5 @@
+
+package ru.netotlogu.src;
 public class SQRService {
 
     public int sqrCount (int minValue, int maxValue){
